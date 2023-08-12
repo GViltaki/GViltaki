@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on creative projects to broaden my knowledge and kick-start my career.
 - 📫 How to reach me:
-          - E-mail: gaby_vil@hotmail.co.uk
-          -linkedin.com/in/gabriella-viltaki/
+  
+          gaby_vil@hotmail.co.uk
+          linkedin.com/in/gabriella-viltaki/
 
 <!---
 GViltaki/GViltaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
